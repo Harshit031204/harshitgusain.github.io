@@ -4,7 +4,7 @@ PYTHON ENTHUSIAST
 # PROJECTS
 
 
-### [1 . Tic-Tav-Toe-Game](https://github.com/Harshit031204/tic-tac-toe)
+### [1 . Tic-Tac-Toe-Game](https://github.com/Harshit031204/tic-tac-toe)
 
 Tic-Tac-Toe is a two-player game played on a 3x3 grid. Players take turns marking empty cells with "X" or "O." The goal is to get three of your marks in a row (horizontally, vertically, or diagonally). The game ends with a win, draw, or when all spaces are filled. Optimal play often results in a draw
 
